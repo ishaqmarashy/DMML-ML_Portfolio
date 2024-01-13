@@ -11,4 +11,4 @@ There are 2 main folders: Lab and CW
 4. Lab 4: Explored an image dataset called JMuBEN2 (Arabica coffee plantation leaves), applied pre-processing and normalization, trained a CNN model with 50 epochs and an SGD Classifier, and performed Evaluation Metrics on both models.
 5. Lab 5: Instead of using CNN and SGD Classifier on the previous dataset, different types of Naïve Bayes Classifiers were trained on the dataset, and Evaluation Metrics were recorded.
 
-### The CW folder consists of the Coursework - Part 1 Jupyter Notebook. Due to the dataset file sizes being huge, they couldn't be uploaded onto GitHub.
+### The CW folder consists of the Coursework - Part 1 Jupyter Notebook. Datasets were too large to be uploaded onto GitHub as a single project.
