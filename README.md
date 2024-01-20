@@ -6,13 +6,13 @@ There are 2 main folders: Lab and CW.
 
 ### CW folder consists of 4 files:
 
-1. Exploration of the traffic sign dataset, including an analysis of feature distribution, target classes, and various image preprocessing techniques. Implementation of predictive Bayesian models with performance metrics in image classification.
+1. Part 1: Exploration of the traffic sign dataset, including an analysis of feature distribution, target classes, and various image preprocessing techniques. Implementation of predictive Bayesian models with performance metrics in image classification.
    
-3. Includes image preprocessing such as thresholding and feature normalization. Implementation of clustering models with performance metrics like silhouette score in image classification. Feature reduction using T-SNE and PCA.
+3. Part 2: Includes image preprocessing such as thresholding and feature normalization. Implementation of clustering models with performance metrics like silhouette score in image classification. Feature reduction using T-SNE and PCA.
    
-5. Implementation of decision tree models with performance metrics in image classification and tree visualization.
+5. Part 3: Implementation of decision tree models with performance metrics in image classification and tree visualization.
    
-7. Covering linear classification models, neural networks, and convolutional neural networks. Extensive exploration of different structures and automated hyper-parameter searching with a comparison of model performance metrics. Feature reduction using T-SNE and PCA. Neural Networks and Convolutional Neural Networks.
+7. Part 4: Covering linear classification models, neural networks, and convolutional neural networks. Extensive exploration of different structures and automated hyper-parameter searching with a comparison of model performance metrics. Feature reduction using T-SNE and PCA. Neural Networks and Convolutional Neural Networks.
 
 ### Lab Folder consists of 7 Labs:
 
